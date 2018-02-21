@@ -1,0 +1,6 @@
+C:\Users\chaitanya.k\Documents\Visual Studio 2017\Projects\NumberWorder\NumberWorder\bin\Debug\NumberWorder.exe
+C:\Users\chaitanya.k\Documents\Visual Studio 2017\Projects\NumberWorder\NumberWorder\bin\Debug\NumberWorder.exe.config
+C:\Users\chaitanya.k\Documents\Visual Studio 2017\Projects\NumberWorder\NumberWorder\obj\Debug\NumberWorder.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.k\Documents\Visual Studio 2017\Projects\NumberWorder\NumberWorder\obj\Debug\NumberWorder.exe
+C:\Users\chaitanya.k\Documents\Visual Studio 2017\Projects\NumberWorder\NumberWorder\obj\Debug\NumberWorder.pdb
+C:\Users\chaitanya.k\Documents\Visual Studio 2017\Projects\NumberWorder\NumberWorder\bin\Debug\NumberWorder.pdb
